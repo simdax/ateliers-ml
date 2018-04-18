@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo Installer d'ananconda. Repondez juste oui a tout.
+echo sans condition.
+
 Perso=`whoami`
 
 cd /sgoinfre/goinfre/Perso
